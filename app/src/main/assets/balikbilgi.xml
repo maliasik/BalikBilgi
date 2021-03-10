@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<turler>
+<balik>
+	<id>1</id>
+	<sinonim>Parexocoetus mento (Valenciennes, 1846)</sinonim>
+	<turkce_ad>Uçan Balık</turkce_ad>
+	<ingilizce_ad>African sailfin flyingfish</ingilizce_ad>
+	<latince_ad>-</latince_ad>
+	<diagnostik_ozellik>D: 9-12, A:10-12, P:13-14, V: 6, SDS: 27-30</diagnostik_ozellik>
+	<ekolojik_ozellik>Vücutları uzundur. Anterior kısmı basık, posterio kısmı yuvarlaktır. Gözleri büyüktür. Çeneleri yukarıya doğru çıkıntılıdır. Sırt koyu mavi, karın gümüşi beyazdır. Dorsal ışın esmer, diğer ışınlar kurşunimsidir. Boyları en fazla 12 cm’dir.</ekolojik_ozellik>
+	<aciklama1>Göğüs yüzgeçleri anal yüzgeçlerin kaidesinin gerisine kadar uzanmaz.</aciklama1>
+</balik>
+<balik>
+<id>2</id>
+<sinonim>Parexocoetus mento (Valenciennes, 1846)</sinonim>
+<turkce_ad>Uçmayan Balık</turkce_ad>
+<ingilizce_ad>African sailfin flyingfish</ingilizce_ad>
+<latince_ad>-</latince_ad>
+<diagnostik_ozellik>D: 9-12, A:10-12, P:13-14, V: 6, SDS: 27-30</diagnostik_ozellik>
+<ekolojik_ozellik>Vücutları uzundur. Anterior kısmı basık, posterio kısmı yuvarlaktır. Gözleri büyüktür. Çeneleri yukarıya doğru çıkıntılıdır. Sırt koyu mavi, karın gümüşi beyazdır. Dorsal ışın esmer, diğer ışınlar kurşunimsidir. Boyları en fazla 12 cm’dir.</ekolojik_ozellik>
+<aciklama1>Göğüs yüzgeçleri anal yüzgeçlerin kaidesinin gerisine kadar uzanmaz.</aciklama1>
+</balik>
+<balik>
+<id>4</id>
+<sinonim>Acipenser gueldenstaedtii Brandt and Ratzeburg, 1833</sinonim>
+<turkce_ad>Rus Mersini, Karaca</turkce_ad>
+<ingilizce_ad>Danube Sturgeon</ingilizce_ad>
+<latince_ad>-</latince_ad>
+<diagnostik_ozellik>D: 27-48, A: 16-35, SDS: 16-31 İstiridyemsi Pul Sayısı: Sırtta 7-19, Karında 6-13, Yanlarda 24-44</diagnostik_ozellik>
+<ekolojik_ozellik>Burun Oldukça Kısa Ve Yuvarlak, Alt Dudağın Orta Kısmı Ise,  Girintilidir. Bıyıklar Saçaksız Ve Kısa Olup, Ağza Göre Burun Ucuna Daha Yakın Bir Konumda Bulunurlar. Başının üstünde Dağınık Ve Küçük Dikenimsi çıkıntılar Vardır. Sırt Rengi Koyu Esmer, Karnı Beyaz Yan Tarafları Kahverengi Esmerdir. Vücut Uzunluğu 2 M’den Daha Fazla, Ağırlığı Ise 100 Kg Kadar Olabilir.</ekolojik_ozellik>
+<aciklama1>Bıyıkların konumu ağız açıklığına nazaran burun ucuna daha yakındır. Yan taraflardaki kemik plakalar aralarında belirgin boşluklar bırakarak dizilmişlerdir.</aciklama1>
+</balik>
+<balik>
+<id>5</id>
+<sinonim>Acipenser Nudiventris Lovetzky, 1828 Acipenser Glaber Fitzinger </sinonim>
+<turkce_ad>Şip Balığı, Uzun Burun</turkce_ad>
+<ingilizce_ad>Fringebarbel Sturgeon</ingilizce_ad>
+<latince_ad>-</latince_ad>
+<diagnostik_ozellik>D: 45-57, A: 23-37, SDS: 24-42 İstiridyemsi Pul Sayısı: Sırtta 11-17, Karında 10-16, Yanlarda 49-70</diagnostik_ozellik>
+<ekolojik_ozellik>Vücut Uzunca Olup, Küçük Fertlerde Burun Sivrice, Büyük Fertlerde Ise Biraz Kütleşmiştir. Ağız Enine Yarıktır. Ağızın Alt Kısmında 4 Tane Saçaklı Bıyık Vardır. Çenelerinde Diş Yoktur. Göğüs Yüzgeçlerinin Dikenleri Gelişmiştir. Sırt Siyah, Yanlar Açık, Karın Beyaz Renktedir. Ağırlıkları 130 Kg. Boyları 100-150 Cm Civarındadır.</ekolojik_ozellik>
+<aciklama1>Ağız Enine Yarıktır. Alt Dudak Orasında Girinti Yoktur. Bıyıkları Saçaklı Burun Ucu Ile Ağız Ortasına Kadar Yerleşmiştir Ve Ağza Kadar Uzanabilmektedir.</aciklama1>
+</balik>
+<balik>
+<id>6</id>
+<sinonim>Acipenser Stellatus Pallas, 1771</sinonim>
+<turkce_ad>Mersin Balığı</turkce_ad>
+<ingilizce_ad>Starry Sturgeon</ingilizce_ad>
+<latince_ad>-</latince_ad>
+<diagnostik_ozellik>D: 40-46, A: 24-29, SDS: 30-36 İstiridyemsi Pul Sayısı: Sırtta 11-14, Karında 10-11, Yanlarda 30-36</diagnostik_ozellik>
+<ekolojik_ozellik>Burnu Oldukça Uzun Ve Nispeten Dorso-ventral Yönde Yassılaşmıştır. Alt Dudağın Ortasında Içeriye Doğru Hafif Bir Girinti Vardır. Ağzın önünde Saçaksız Ve Fazla Uzun Olmayan 4 Adet Bıyık Bulunur. Vücut Rengi Sırtta Morumsu-esmer, Yan Taraflarda Kahverengi-esmer, Karın Tarafında Ise, Beyaz Veya Gri-sarıdır. Oldukça Iri Balıklar Arsında Yer Alan Bu Türün Bireyleri 220 Cm Kadar Büyüyebilirler. Ağırlıkları Da 40 Kg Kadar Olabilmektedir.</ekolojik_ozellik>
+<aciklama1>Burun Genellikle Sivri Ve Uzun Olup, Baş Boyunun Yarısından Fazladır</aciklama1>
+</balik>
+<balik>
+<id>7</id>
+<sinonim>Acipenser Sturio Linnaeus, 1758</sinonim>
+<turkce_ad>Kolan Balığı</turkce_ad>
+<ingilizce_ad>Sturgeon</ingilizce_ad>
+<latince_ad>-</latince_ad>
+<diagnostik_ozellik>D: 31-43, A: 22-32, SDS: 18-25 İstiridyemsi Pul Sayısı: Sırtta 9-16, Karında 9-14, Yanlarda 24-39</diagnostik_ozellik>
+<ekolojik_ozellik>Burun Uzun Ve Ucu Sivridir. Başın Altında Ve Ağzın ön Tarafında Saçaklanma Yapmayan Yuvarlak Görünüşlü 4 Bıyık Vardır. Ağız Prokraktril Olup, Ileriye Doğru Uzayıp çekilebilir. Alt Dudağın Ortasında Hafif Bir Oyuk Bulunur. Gözlerin üst Arka Tarafına Yerleşmiş Birer Adet Spiraculum Bulunmaktadır Ve Bunlar özel Bir Kanalla Solungaç Boşluğuna Bağlanmışlardır. Sırt Rengi Mavimsi Kurşuni, Karnı Beyaz Yan Tarafları Gri-kahverengidir. Boyları 300-350 Cm Arasında Olabilmektedir.</ekolojik_ozellik>
+<aciklama1>Bıyıkların Konumu Ağız Açıklığına Nazaran Burun Ucuna Daha Uzak Veya Ortadadır. Yan Taraflardaki Kemik Plakalar Aralarında Boşluklar Bırakmasızın Dizilmişlerdir.</aciklama1>
+</balik>
+<balik>
+<id>8</id>
+<sinonim>Huso Huso (Linnaeus, 1758)  Acipenser Huso Linnaeus, 1758</sinonim>
+<turkce_ad>Mersin Morinası</turkce_ad>
+<ingilizce_ad>Beluga</ingilizce_ad>
+<latince_ad>-</latince_ad>
+<diagnostik_ozellik>D: 62-73, A: 28-41 İstiridyemsi Pul Sayısı: Sırtta 11-14, Karında 9-11, Yanlarda 41-52</diagnostik_ozellik>
+<ekolojik_ozellik>Başın Altında Olan Ağız Büyük, Yarım Ay şeklindedir. Bıyıkları Yuvarlak Ve Küttür. İstiridyemsi Pullar Yaşlandıkça Artarlar. Sırtı Siyah, Yanlar Daha Açık Ve Karın Beyaz Renktedir. Üreme Zamanlarında Tatlı Suya Geçen Etobur Bir Balıktır. Boyları Maksimum 500 Cm, Ağırlıkları Ise 1200 Kg Kadar Olabilmektedir.</ekolojik_ozellik>
+<aciklama1>Solungaç Zarları Boğaz Bölgesinde Birbirleriyle Birleşirler. Ağız Büyük Ve Yarım Ay şeklindedir. Dorsal Yüzgeçte 60’dan Fazla ışın Bulunur.</aciklama1>
+</balik>
+<balik>
+<id>11</id>
+<sinonim>Pomatoschistus microps leopardinus Berg, 1948-1949              </sinonim>
+<turkce_ad>Küçük Kayabalığı</turkce_ad>
+<ingilizce_ad>Marbled Goby</ingilizce_ad>
+<latince_ad>Pomatoschistus marmoratus</latince_ad>
+<diagnostik_ozellik>D1: V-VII,  D2: I +8-10, A: I +7-10, P: 17-21, L.L: 37-48, Omur: 31-34 </diagnostik_ozellik>
+<ekolojik_ozellik>Vücut Beyazımsı Sarı Mermer Desenli Ve üzerinde çok Sayıda Kahverengi Benek Yer Alır. Vücutta Yan Hat Boyunca Koyu Benekler Bulunur. Erkeklerin Yanlarında Dikine 4 Adet Bant Vardır. Birinci Sırt Yüzgeci Ve Göğüs Koyudur. Dişilerde Göğüs Kısmı Açık Renklidir. Boyları En Fazla 8 Cm’dir.</ekolojik_ozellik>
+<aciklama1>-</aciklama1>
+</balik>
+<balik>
+<id>18</id>
+<sinonim>Pomatoschistus microps leopardinus Berg, 1948-1949              </sinonim>
+<turkce_ad>Küçük Balon Balık</turkce_ad>
+<ingilizce_ad>Marbled Gobiskus</ingilizce_ad>
+<latince_ad>Pomatoschistus marmoratusasus</latince_ad>
+<diagnostik_ozellik>D1: V-VII,  D2: I +8-10, A: I +7-10, P: 17-21, L.L: 37-48, Omur: 31-34 </diagnostik_ozellik>
+<ekolojik_ozellik>Vücut Beyazımsı Sarı Mermer Desenli Ve üzerinde çok Sayıda Kahverengi Benek Yer Alır. Vücutta Yan Hat Boyunca Koyu Benekler Bulunur. Erkeklerin Yanlarında Dikine 4 Adet Bant Vardır. Birinci Sırt Yüzgeci Ve Göğüs Koyudur. Dişilerde Göğüs Kısmı Açık Renklidir. Boyları En Fazla 8 Cm’dir.</ekolojik_ozellik>
+<aciklama1>Mersin'de kıyıya yakın bölgelerde balıkçıların oltalarına takılan balon balıkları, tedirginliğe neden oluyor.</aciklama1>
+</balik>
+</turler>
